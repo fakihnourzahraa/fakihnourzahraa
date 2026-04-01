@@ -1,9 +1,11 @@
 ## Hi there 👋
 
-<p align="center">
+<!--<p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
-
+-->
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -11,6 +13,7 @@
     <summary><h1 style="display: inline-block">Hi 👋, I'm Nour</h1></summary>
   </ul>
 </div>
+
 
 
 
