@@ -18,11 +18,11 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+- 🔭 I’m currently discovering **CPP, AWS, Docker, HTTP Protocol**
 
 <!--- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**-->
 
-- 📫 Feel free to reach me out **fakihnour80@gmail.com**
+- 📫 Feel free to reach out to me at **fakihnour80@gmail.com**
 
 <!--Intro end-->
 
@@ -71,7 +71,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,cpp,css,discord,docker,git,github,html,python,js,linux,md,nginx,mongodb,mysql,nodejs,vscode,aws,wordpress,jira,slack&perline=14" />
+    <img src="https://skillicons.dev/icons?i=c,java,cpp,css,discord,docker,git,github,html,python,js,linux,md,nginx,mongodb,mysql,nodejs,vscode,aws,wordpress,eclipse&perline=14" />
   </a>
 </p>
 
